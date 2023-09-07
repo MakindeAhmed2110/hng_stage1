@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Antique&display=swap');
+body{
+        
+        margin: 0;
+        box-sizing: border-box;
+        font-family: 'Shippori Antique', sans-serif;
+         display: flex;
+         justify-content: center;
+         background-color: #f8f7fe;
+} 
+
+h1{
+    text-align: center;
+ 
+    font-size: 38px;
+}
+.week, .date, .track, .git{
+    padding-top: 10px;
+}
+#img{
+    height: 300px;
+    border-radius: 10px;
+}
