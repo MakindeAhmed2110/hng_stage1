@@ -15,5 +15,5 @@ document.addEventListener('DOMContentLoaded', function(){
 
      currentUTCTime.textContent = currentDateNow.toUTCString();
      myTrack.textContent = 'Frontend';
-     githubUrl.innerHTML = `<a href="https://github.com/makindeahmed2110" target="_blank">Github Repository</a>`
+     githubUrl.innerHTML = `<a href="https://github.com/MakindeAhmed2110/hng_stage1/" target="_blank">Github Repository</a>`
 })
